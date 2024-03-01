@@ -5150,7 +5150,7 @@ PrefabInstance:
     - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
       propertyPath: m_Range
-      value: 3.6
+      value: 0.5899673
       objectReference: {fileID: 0}
     - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
@@ -5165,6 +5165,11 @@ PrefabInstance:
     - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
       propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
+        type: 3}
+      propertyPath: m_RenderMode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
@@ -20754,6 +20759,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
         type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
       propertyPath: m_StaticShadowCaster
       value: 0
       objectReference: {fileID: 0}
@@ -30631,6 +30641,11 @@ PrefabInstance:
       propertyPath: m_Color.g
       value: 0.91764706
       objectReference: {fileID: 0}
+    - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7593355604327622823, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -34694,6 +34709,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.g
       value: 0.91764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7593355604327622823, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
@@ -64554,6 +64574,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4281995909852621869, guid: 1669ea5236eb3cd488f0d046288986c7,
+        type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8859589521562281012, guid: 1669ea5236eb3cd488f0d046288986c7,
         type: 3}
       propertyPath: m_Name
@@ -68182,6 +68207,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.g
       value: 0.91764706
+      objectReference: {fileID: 0}
+    - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
+        type: 3}
+      propertyPath: m_RenderMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7593355604327622823, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
